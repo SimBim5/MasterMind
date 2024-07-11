@@ -1,3 +1,1 @@
 # MasterMind
-
-## Glander = Hannes
